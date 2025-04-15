@@ -20,7 +20,8 @@ Installation Instructions
 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-review-api.git
+git clone https://github.com/sushjk/Book-Review-API.git
+
 cd book-review-api
 ```
 
